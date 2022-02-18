@@ -7,7 +7,7 @@ from func import minute
 
 # This script is designed to run constantly, but the
 # process would be better suited to being scheduled
-# with cron or windows task scheduler. It was more of
+# with cron or windows task scheduler. It was more proof of
 # concept, and at some point i'll add a gui with a
 # prompt to select the directory.
 
