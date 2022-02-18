@@ -9,7 +9,8 @@ from func import minute
 # process would be better suited to being scheduled
 # with cron or windows task scheduler.
 
-
+# This directory should contain the MP3s you want in
+# your playlist, and nothing else.
 PATH = "D:\\AlarmSongs\\"
 ALARM_TIME = 11     #24 hour time
 
