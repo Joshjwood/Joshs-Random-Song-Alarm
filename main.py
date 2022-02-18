@@ -7,7 +7,9 @@ from func import minute
 
 # This script is designed to run constantly, but the
 # process would be better suited to being scheduled
-# with cron or windows task scheduler.
+# with cron or windows task scheduler. It was more of
+# concept, and at some point i'll add a gui with a
+# prompt to select the directory.
 
 # This directory should contain the MP3s you want in
 # your playlist, and nothing else.
